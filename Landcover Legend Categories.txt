@@ -1,0 +1,6 @@
+1 : Mangrove
+2 : Coastal Wetland
+3 : Pond Aquaculture
+4 : Water
+5 : Other Landcover
+6 : Missing

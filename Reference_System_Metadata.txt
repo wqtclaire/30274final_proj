@@ -1,0 +1,19 @@
+Reference System Metadata
+
+ref. system : Geodetic Coordinates (Latitude/Longitude)
+projection  : none
+datum       : WGS 1984
+delta WGS84 : 0 0 0
+ellipsoid   : WGS84
+major s-ax  : 6378137.000
+minor s-ax  : 6356752.314
+origin long : 0
+origin lat  : 0
+origin X    : 0
+origin Y    : 0
+scale fac   : 1.0
+units       : deg
+parameters  : 0
+
+
+Note: WGS84 refers to the Molodensky constants delta X, delta Y and delta Z
